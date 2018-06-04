@@ -14,6 +14,5 @@ P0C:
  
 Check the files in this Repository.
  
-——————
-Solution:
-https://www.edwardthomson.com/blog/upgrading_git_for_cve2018_11235.html
+ commit.sh
+ pwned.sh
