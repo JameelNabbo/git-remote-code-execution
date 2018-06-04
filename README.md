@@ -6,9 +6,9 @@
 # Website: jameelnabbo.com
 # Vendor Homepage: https://github.com/git/git 
 # CVE: CVE-2018-11235
- #Version:  <=2.17.1 
+# Version:  <=2.17.1 
 # Tested on Kali Linux
- 
+ Exploit DB: https://www.exploit-db.com/exploits/44822/ 
  
 P0C:
  
